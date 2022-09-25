@@ -34,4 +34,7 @@
 
     <!-- Burn-in protection -->
     <bool name="config_statusBarBurnInProtection">true</bool>
+
+    <!-- the padding on the start of the statusbar -->
+    <dimen name="status_bar_padding_start">15dp</dimen>
 </resources>
