@@ -14,3 +14,7 @@ persist.vendor.cp.taper_term_mv=6500
 persist.vendor.qg_cld_coff_gain=1.5
 persist.vendor.qg_coff_gain=1
 persist.vendor.qg_cold_temp=-150
+
+# Security patch
+# Release date of 4.14.302
+ro.vendor.kernel.security_patch=2022-12-14
